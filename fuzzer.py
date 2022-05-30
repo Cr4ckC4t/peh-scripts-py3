@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#  Fuzzing script for Buffer Everflows
+#  Fuzzing script for Buffer Overflows
 #=======================================
 #
 # Usage:
